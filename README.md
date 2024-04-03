@@ -11,11 +11,13 @@ Required:
 
 
 Local Setup Steps:
-1. git clone https://github.com/OlympusDAO/olympus-contracts.git 
-1. Install dependencies: `npm install` 
+1. git clone https://github.com/Fredrick-126/solidity-olympus-smartcontract.git
+2. copy .env example and rename .env
+3. set deployment keys
+4. Install dependencies: `npm install` 
     - Installs [Hardhat](https://hardhat.org/getting-started/) & [OpenZepplin](https://docs.openzeppelin.com/contracts/4.x/) dependencies
-1. Compile Solidity: `npm run compile`
-1. **_TODO_**: How to do local deployments of the contracts.
+5. Compile Solidity: `npm run compile`
+6. **_TODO_**: How to do local deployments of the contracts.
 
 
 ## 🤨 How it all works
